@@ -1,0 +1,23 @@
+:root {
+  font-family: "Aptos", "Microsoft YaHei UI", "Microsoft YaHei", sans-serif;
+  color: #e7eee9;
+  background: #101613;
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  font-optical-sizing: auto;
+  font-weight: 400;
+}
+
+* { box-sizing: border-box; }
+
+body {
+  min-width: 360px;
+  min-height: 100vh;
+  margin: 0;
+}
+
+button, input { font: inherit; }
+
+#app { min-height: 100vh; }
